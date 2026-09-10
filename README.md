@@ -1,0 +1,1 @@
+# Tales-Of-Arise-Full-Version
