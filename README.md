@@ -244,4 +244,4 @@ This repository serves as the official landing page for Tales of Arise. The soft
 **Get the most recent version of Tales of Arise today!**
 
 ---
-**Last updated:** 2026-10-24 22:55:38 UTC
+**Last updated:** 2026-10-25 00:53:37 UTC
